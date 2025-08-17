@@ -16,6 +16,11 @@ Comencé la cursada a inicios de 2024. Al principio fue un desafío, ya que era 
 Mi meta a futuro como programador es trabajar mientras viajo por muchos países. Me gustaría conocer otras culturas, disfrutar de su gastronomía y de la gente, y luego poder tener mi propia casa en el lugar que más me guste.
 
 
+<img width="1024" height="1024" alt="ferreRari" src="https://github.com/user-attachments/assets/524e2453-bed1-47a2-9a4c-6b31fd923a5a" />
+
+Tambien, como amante de los deportes, no puede faltar la F1 siendo fan de la escuderia Ferrari, es una representación mía hecha por inteligencia artificial como piloto de la F1.
+
+
 ### Otra Información
 - Este es mi primer contacto con github
 
